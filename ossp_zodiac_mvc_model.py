@@ -8,7 +8,7 @@ class ZodiacModel:
         elif (month == 3 and day >= 21) or (month == 4 and day <= 19):
             return "Овен"
         elif (month == 4 and day >= 20) or (month == 5 and day <= 20):
-            return = "Телец"
+            return "Телец"
         elif (month == 5 and day >= 21) or (month == 6 and day <= 20):
             return "Близнецы"
         elif (month == 6 and day >= 21) or (month == 7 and day <= 22):
